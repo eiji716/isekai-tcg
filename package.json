@@ -1,9 +1,1 @@
-{
-  "name": "isekai-tcg",
-  "version": "0.4.0",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "@vercel/functions": "latest"
-  }
-}
+{"name":"isekai-tcg-prototype","version":"0.5.0","private":true,"type":"module","dependencies":{"@vercel/functions":"latest"}}
