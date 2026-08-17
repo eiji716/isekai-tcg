@@ -1,1 +1,1 @@
-{"$schema":"https://openapi.vercel.sh/vercel.json","cleanUrls":true,"trailingSlash":false,"functions":{"api/room.js":{"maxDuration":10}},"regions":["hnd1"]}
+{"$schema":"https://openapi.vercel.sh/vercel.json","cleanUrls":true,"trailingSlash":false,"regions":["hnd1"]}
